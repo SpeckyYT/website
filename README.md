@@ -1,2 +1,2 @@
-# website
-Codice Sorgente di https://digital-ladin.com
+# Digital Ladin
+Sito web in costruzione.
