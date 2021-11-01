@@ -79,21 +79,45 @@
 				<p>Finalmente sta arrivando il progetto Digital Ladin che porterà il ladino in tutte le sue varianti nel mondo digitale.	</p>
 				<ul class="countdown">
 					<li class="wow bounceIn col-md-3 col-sm-6" data-wow-delay="0.3s">
-						<span class="days">GG</span>
+						<span id="days" class="days">GG</span>
 						<h3>giorni</h3>
 					</li>
 					<li class="wow bounceIn col-md-3 col-sm-6" data-wow-delay="0.6s">
-						<span class="hours">HH</span>
+						<span id="hours" class="hours">HH</span>
 						<h3>ore</h3>
 					</li>
 					<li class="wow bounceIn col-md-3 col-sm-6" data-wow-delay="0.9s">
-						<span class="minutes">MM</span>
+						<span id="minutes" class="minutes">MM</span>
 						<h3>minuti</h3>
 					</li>
 					<li class="wow bounceIn col-md-3 col-sm-6" data-wow-delay="1s">
-						<span class="seconds">SS</span>
+						<span id="seconds" class="seconds">SS</span>
 						<h3>secondi</h3>
 					</li>
+					<script>
+						var countDownDate = new Date("Jan 01, 2022 00:00:00").getTime();
+						var x = setInterval(function() {
+							var now = new Date().getTime();
+							var distance = countDownDate - now;
+							var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+							var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+							var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+							var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+							document.getElementById("days").innerHTML = days;
+							document.getElementById("hours").innerHTML = hours;
+							document.getElementById("minutes").innerHTML = minutes;
+							document.getElementById("seconds").innerHTML = seconds;
+
+							if (distance < 0) {
+								clearInterval(x);
+								document.getElementById("days").innerHTML = "--";
+								document.getElementById("hours").innerHTML = "--";
+								document.getElementById("minutes").innerHTML = "--";
+								document.getElementById("seconds").innerHTML = "--";
+							}
+						}, 1000);
+					</script>
 				</ul>
 			</div>
 		</div>
