@@ -1,5 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+session_start();
+
+$userinfo = array(
+                'thomas.chiocchetti'=>'9BZLqRe3',
+                'dl.admin'=>'p4H4v11r'
+                );
+
+if(isset($_GET['logout'])) {
+    $_SESSION['username'] = '';
+    header('Location:  ' . $_SERVER['PHP_SELF']);
+}
+
+if(isset($_POST['username'])) {
+    if($userinfo[$_POST['username']] == $_POST['password']) {
+        $_SESSION['username'] = $_POST['username'];
+    }else {
+        //Invalid Login
+    }
+}
+?>
+<!DOCTYPE htmlPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<title>DL - Member Login</title>
 	<meta charset="UTF-8">
@@ -22,7 +44,10 @@
 <!--===============================================================================================-->
 </head>
 <body>
-	
+<?php if($_SESSION['username']): ?>
+            <p>You are logged in as <?=$_SESSION['username']?></p>
+            <p><a href="?logout=1">Logout</a></p>
+        <?php endif; ?>
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
@@ -30,7 +55,7 @@
 					<img src="images/img-01.png" alt="IMG">
 				</div>
 
-				<form class="login100-form validate-form" action="/php/login.php">
+				<form class="login100-form validate-form" action="" method="post">
 					<span class="login100-form-title">
 						Member Login
 					</span>
@@ -76,8 +101,6 @@
 			</div>
 		</div>
 	</div>
-	
-	
 
 	
 <!--===============================================================================================-->	
