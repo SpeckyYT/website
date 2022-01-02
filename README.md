@@ -3,4 +3,4 @@ Repository contenente il codice sorgente di https://digital-ladin.com.
 --
 Il progetto Digital Ladin&trade; ha l'obbiettivo di portare la lingua di minoranza ladina nelle varianti parlate in Trentino-Alto Adige nel mondo digitale tramite la traduzione dei software che vengono utilizzati quotidianamente e l'intrattenimento videoludico.
 
-Copyright © 2021 Digital Ladin&trade;. All Rights Reserved.
+Copyright © 2021-2022 Digital Ladin&trade;. All Rights Reserved.
