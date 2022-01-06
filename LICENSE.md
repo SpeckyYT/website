@@ -1,48 +1,33 @@
-<header id="header">
-		<div class="container">
-			<div class="row">
-				<div class="col-ms-12">
-					<h1><span>Digital Ladin&trade; | Copyright</span></h1>
-				</div>
-			</div>
-		</div>
-	</header>
-	<div id="container">
-		<div class="container">
-			<div class="row">
-				<div class="col-ms-12">
-					<article>
-						<h2>ITALIAN - ITALIANO</h2>
-                        <p>Tutti i diritti riservati.</p>
-                        <p>Copyright © 2021 Digital Ladin&trade;.</p>
-                        <p>Questo sito Web viene presentato all'utente "COSÌ COM'È", senza alcuna dichiarazione o garanzia di alcun tipo, comprese garanzie implicite o esplicite relative alla qualità del sito Web e/o alla sua idoneità per uno scopo particolare. Miriamo a fornire un servizio eccellente privo di errori, ma non possiamo garantire che il Sito Web sarà sempre disponibile e/o privo di errori. Nella misura consentita dalla legge, non accettiamo alcuna responsabilità derivante da eventuali errori e/o indisponibilità dal nostro sito Web.</p>
-                        <p>Miriamo a pubblicare informazioni accurate in ogni momento e aggiorneremo le informazioni su base regolare. Se vieni a conoscenza di eventuali inesattezze sul nostro sito Web, ti preghiamo di contattarci.</p>
-                        <p>Utilizziamo misure di sicurezza per proteggere i contenuti del sito Web dai virus. Tuttavia, non possiamo garantire che il materiale e i download dal nostro sito Web siano privi di virus o codici dannosi. È tua responsabilità assicurarti di aver preso precauzioni per proteggere il tuo sistema informatico dalle infezioni da virus.</p>
-                        <p>Il sito web utilizza un template fornito da https://templatemo.com</p>
-                        <h2>ENGLISH</h2>
-                        <p>All rights reserved.</p>
-                        <p>Copyright © 2021 Digital Ladin&trade;.</p>
-                        <p>This Website is presented to you "AS IS", without any representations or warranties of any kind, including implied or express warranties as to the quality of the Website and/or its fitness for a particular purpose. We aim to provide an excellent error-free service, but cannot guarantee that the Website will always be available and/or error-free. To the extent permitted by law, we accept no liability for any errors and/or unavailability of our Website.</p>
-                        <p>We aim to publish accurate information at all times and will update information on a regular basis. If you become aware of any inaccuracies on our website, please contact us.</p> <p>We will not be liable for any errors or unavailability of information.
-                        <p>We use security measures to protect the contents of the website from viruses. However, we cannot guarantee that material and downloads from our website will be free from viruses or malicious code. It is your responsibility to ensure that you have taken precautions to protect your computer system from infection by viruses.</p>
-                        <p>The website uses a template provided by https://templatemo.com</p>
-                        <br>
-                        <h1>Contact us</h1>
-                        <p><a target="_blank" rel="nofollow" href="https://digital-ladin.com">https://digital-ladin.com</a><br/>&#112;ro&#103;&#101;tt&#111;&#100;&#105;&#103;i&#116;&#97;l.lad&#105;n&#64;g&#109;a&#105;&#108;.&#99;&#111;&#109;</p>
-                        <p>This document was last updated on December 19, 2021</p>
-					</article>
-				</div>
-			</div>
-		</div>
-	</div>
-	    <footer id="footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-ms-12">
-					    <a target="_blank" rel="nofollow" href="https://digital-ladin.com">digital-ladin.com</a> | Copyright &copy; 2021 Digital Ladin&trade;
-                    </div>
-				</div>
-			</div>
-		</footer>
-</body>
-</html>
+<h1 align="center">Digital Ladin&trade; Official Website</h1>
+<h3 align="left">Copyright - Tutti i diritti riservati. | Alle Rechte vorbehalten.</h3>
+<p>🇮🇹 Questo sito web viene presentato all'utente "COSÌ COM'È", senza alcuna dichiarazione o garanzia di alcun tipo, comprese garanzie implicite o esplicite relative all qualità del sito Web e/o alla suo idoneità per uno scopo particolare. Miriamo a fornire un servizio eccellente privo di errori, ma non possiamo garantire che il Sito Web sarà sempre disponibile e/o privo di errori. Nella misura consentita dalla legge, non accettiamo alcuna responsabilità derivante da eventuali errori e/o indisponibilittà del Sito Web. Miriamo a pubblicare informazioni accurate in ogni momento e aggiurneremo le informazioni su base regolare. Se vieni a conoscenza di eventuali inesattezze sul nostro Sito Web, ti preghiamo di contattarci. Utilizziamo misure di sicurezza per proteggere i contenuti del Sito Web da virus. Tuttavia, non possiamo garantire che il materiale e i download dal nostro Sito Web siano privi di virus o codici dannosi. È tua responsabilità assicurarti di aver preso precauzioni per proteggere il tuo sistema informatico dalle infezioni da virus. Il sito Web utilizza un template fornito da https://templatemo.com.</p>
+<p>🇩🇪 Diese Website wird Ihnen ohne Mängelgewähr und ohne Zusicherungen oder Gewährleistungen jeglicher Art präsentiert, einschließlich stillschweigender oder ausdrücklicher Gewährleistungen hinsichtlich der Qualität der Website und/oder ihrer Eignung für einen bestimmten Zweck. Wir sind bestrebt, einen hervorragenden, fehlerfreien Service zu bieten, können jedoch nicht garantieren, dass die Website immer verfügbar und/oder fehlerfrei ist. Soweit gesetzlich zulässig, übernehmen wir keine Haftung für etwaige Fehler und/oder Nichtverfügbarkeit der Website. Wir sind bestrebt, stets genaue Informationen zu veröffentlichen und werden diese regelmäßig aktualisieren. Wenn Sie auf Ungenauigkeiten auf unserer Website aufmerksam werden, kontaktieren Sie uns bitte. Wir verwenden Sicherheitsmaßnahmen, um den Inhalt der Website vor Viren zu schützen. Wir können jedoch nicht garantieren, dass Material und Downloads von unserer Website frei von Viren oder bösartigem Code sind. Es liegt in Ihrer Verantwortung, sicherzustellen, dass Sie Vorkehrungen getroffen haben, um Ihr Computersystem vor einer Infektion mit Viren zu schützen. Die Website verwendet eine von https://templatemo.com bereitgestellte Vorlage.</p>
+<h3 align="left">Descrizione progetto | Beschreibung des Projekts</h3>
+<p>🇮🇹 Il progetto Digital Ladin&trade; ha l'obbiettivo di portare la lingua di minoranza ladina nelle varianti parlate in Trentino-Alto Adige nel mondo digitale tramite
+la traduzione dei software che vengono utilizzati quotidianamente e l'intrattenimento videoludico.</p>
+<p>🇩🇪 Das Projekt Digital Ladin&trade; hat zum Ziel, die ladinische Minderheitensprache in den in Trentino-Südtirol gesprochenen Varianten in die digitale Welt zu bringen, und zwar mit Hilfe von Übersetzung von Software, die täglich verwendet wird, und Videospielunterhaltung.</p>
+<h3 align="left">Social Networks</h3>
+<a href="https://digital-ladin.com/ig" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" width="50px" height="50px"></a>
+&nbsp;&nbsp;
+<a href="https://digital-ladin.com/fb" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" width="50px" height="50px"></a>
+&nbsp;&nbsp;
+<a href="https://digital-ladin.com/tiktok" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" width="50px" height="50px"></a>
+&nbsp;&nbsp;
+<a href="https://digital-ladin.com/yt" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" width="50px" height="50px"></a>
+&nbsp;&nbsp;
+<a href="https://digital-ladin.com/tv" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/343_Twitch_logo-512.png" width="50px" height="50px"></a>
+&nbsp;&nbsp;
+<a href="https://digital-ladin.com/tw" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" width="50px" height="50px"></a>
+&nbsp;&nbsp;
+<a href="https://digital-ladin.com/in" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="50px" height="50px"></a>
+<h3 align="left">Collegamenti Utili | Nützliche Links</h3>
+<ul>
+  <li><a href="https://digital-ladin.com/legal/cookie-policy?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Cookie Policy</a></li>
+  <li><a href="https://digital-ladin.com/legal/privacy-policy?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Privacy Policy</a></li>
+  <li><a href="https://digital-ladin.com/legal/copyright?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Copyright</a></li>
+  <li><a href="https://digital-ladin.com/templatemo" target="_blank">Website Template</a></li>
+  <li><a href="https://digital-ladin.com/donate" target="_blank">Donate with PayPal</a></li>
+  <li><a href="https://digital-ladin.com/legal/affiliations?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Affiliations</a></li>
+</ul>
+
+<p><b>Copyright &copy; 2021-2022 Digital Ladin&trade;. Tutti i diritti riservati. | Alle Rechte vorbehalten.</b></p>
