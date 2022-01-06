@@ -27,4 +27,4 @@ la traduzione dei software che vengono utilizzati quotidianamente e l'intratteni
   <li><a href="https://digital-ladin.com/legal/affiliations?utm_source=github&utm_medium=link&utm_campaign=social-campaign" target="_blank">Affiliations</a></li>
 </ul>
 
-<p><b>Copyright &copy; 2021-2022 Digital Ladin&trade;. All Rights Reserved.</b></p>
+<p><b>Copyright &copy; 2021-2022 Digital Ladin&trade;. Tutti i diritti riservati. | Alle Rechte vorbehalten.</b></p>
