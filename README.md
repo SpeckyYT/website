@@ -1,6 +1,6 @@
 <h1 align="center">Digital Ladin&trade; Official Website</h1>
 <h3 align="left">Descrizione progetto | Beschreibung des Projekts</h3>
-<p>🇮🇹 Il progetto Digital Ladin&trade; ha l'obbiettivo di portare la lingua di minoranza ladina nelle varianti parlate in Trentino-Alto Adige nel mondo digitale tramite
+<p>🇮🇹 Il progetto Digital Ladin&trade; ha l'obiettivo di portare la lingua di minoranza ladina nelle varianti parlate in Trentino-Alto Adige nel mondo digitale tramite
 la traduzione dei software che vengono utilizzati quotidianamente e l'intrattenimento videoludico.</p>
 <p>🇩🇪 Das Projekt Digital Ladin&trade; hat zum Ziel, die ladinische Minderheitensprache in den in Trentino-Südtirol gesprochenen Varianten in die digitale Welt zu bringen, und zwar mit Hilfe von Übersetzung von Software, die täglich verwendet wird, und Videospielunterhaltung.</p>
 <h3 align="left">Social Networks</h3>
